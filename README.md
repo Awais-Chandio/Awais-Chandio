@@ -20,7 +20,7 @@
 
 ## 🌐 Portfolio
 
-👉 https://awaischandioport-jifs.vercel.app
+👉 https://awaischandioport-kappa.vercel.app
 
 ---
 
