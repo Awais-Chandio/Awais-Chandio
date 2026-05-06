@@ -1,1 +1,79 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais</h1> <h3 align="center">🚀 Software Engineer (React Native) | Mobile App Developer | Cross-Platform Specialist</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Native+Developer;Mobile+App+Engineer;Flutter+Experience;Building+Scalable+Apps;Clean+Code+%7C+Modern+UI+%7C+Performance" /> </p> --- ## 👨‍💻 About Me * 🎓 BE in Software Engineering * 🏫 Mehran University of Engineering & Technology * 💼 Software Engineer (React Native) at **Verge Systems** * 📱 Specialized in **React Native Mobile App Development** * ⚡ Also experienced in **Flutter (Cross-Platform Apps)** * 🚀 Passionate about building scalable, high-performance mobile applications --- ## 🌐 Portfolio 👉 https://awaischandioport-kappa.vercel.app --- ## 💬 Ask Me About * React Native * JavaScript * Mobile App Development * Flutter * API Integration --- ## 🛠️ Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=react,js,flutter,dart,nodejs,firebase,git,github" /> </p> --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=awais-chandio&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais-chandio&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-chandio&layout=compact&theme=tokyonight&hide_border=true" /> </p> --- ## 🤝 Connect with Me <p align="center"> <a href="https://linkedin.com/in/muhammad-awais" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> </a> <a href="mailto:awaischandio827@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40" /> </a> <a href="https://instagram.com/" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" height="40" /> </a> </p> --- ## ⚡ Fun Fact 💡 I turn coffee ☕ into high-performance mobile apps 📱 with clean code and modern UI 😄
+<h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
+<h3 align="center">🚀 Software Engineer (React Native) | Mobile App Developer | Cross-Platform Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Native+Developer;Mobile+App+Engineer;Flutter+Experience;Building+Scalable+Apps;Clean+Code+%7C+Modern+UI+%7C+Performance" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 BE in Software Engineering
+* 🏫 Mehran University of Engineering & Technology
+* 💼 Software Engineer (React Native) at **Verge Systems**
+* 📱 Specialized in **React Native Mobile App Development**
+* ⚡ Also experienced in **Flutter (Cross-Platform Apps)**
+* 🚀 Passionate about building scalable, high-performance mobile applications
+
+---
+
+## 🌐 Portfolio
+
+👉 https://awaischandioport-kappa.vercel.app
+
+---
+
+## 💬 Ask Me About
+
+* React Native
+* JavaScript
+* Mobile App Development
+* Flutter
+* API Integration
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,flutter,dart,nodejs,firebase,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awais-chandio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=awais-chandio&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-chandio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/muhammad-awais" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:awaischandio827@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+<a href="https://instagram.com/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I turn coffee ☕ into high-performance mobile apps 📱 with clean code and modern UI 😄
