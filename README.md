@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Native+Developer;Mobile+App+Engineer;Flutter+Experience;Building+Scalable+Apps;Clean+Code+%7C+Modern+UI+%7C+Performance" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awais-chandio&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -14,7 +18,7 @@
 * 💼 Software Engineer (React Native) at **Verge Systems**
 * 📱 Specialized in **React Native Mobile App Development**
 * ⚡ Also experienced in **Flutter (Cross-Platform Apps)**
-* 🚀 Passionate about building scalable, high-performance mobile applications
+* 🚀 Passionate about scalable, high-performance mobile apps
 
 ---
 
@@ -45,15 +49,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awais-chandio&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awais-chandio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais-chandio&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=awais-chandio&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-chandio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=awais-chandio&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
