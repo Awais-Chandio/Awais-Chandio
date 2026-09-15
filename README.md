@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Awais&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20React%20Native%20%26%20Flutter%20Developer&descAlignY=56&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00C9FF&height=200&section=header&text=Muhammad%20Awais&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=React%20Native%20and%20Flutter%20Developer&descAlignY=56&descSize=18" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Software Engineer building production **React Native** and **Flutter** apps — 
   <img src="https://komarev.com/ghpvc/?username=Awais-Chandio&color=00F7FF&style=flat-square&label=views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
 ## 🚀 Featured Projects
 
@@ -34,7 +34,7 @@ Real-time queue and appointment app for clinics that replaces physical waiting r
 **🍔 [FoodApp](https://github.com/Awais-Chandio/FoodApp)**
 Food ordering app with a two-role architecture (Admin/Customer) and offline-capable order & menu management via SQLite.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +51,7 @@ Food ordering app with a two-role architecture (Admin/Customer) and offline-capa
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
 <details>
 <summary><strong>💼 Work Experience</strong> (click to expand)</summary>
@@ -75,7 +75,7 @@ Food ordering app with a two-role architecture (Admin/Customer) and offline-capa
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
 ## 📊 GitHub Activity
 
@@ -87,4 +87,4 @@ Food ordering app with a two-role architecture (Admin/Customer) and offline-capa
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00C9FF&height=90&section=footer" />
