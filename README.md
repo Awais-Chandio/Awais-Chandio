@@ -80,11 +80,7 @@ Food ordering app with a two-role architecture (Admin/Customer) and offline-capa
 ## 📊 GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awais-Chandio/Awais-Chandio/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awais-Chandio/Awais-Chandio/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Awais-Chandio/Awais-Chandio/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="GitHub contribution graph" src="https://ghchart.rshah.org/00C9FF/Awais-Chandio" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00C9FF&height=90&section=footer" />
