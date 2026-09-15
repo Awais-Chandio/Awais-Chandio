@@ -3,14 +3,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Native+%7C+Flutter+Developer;Shipping+Apps+to+Google+Play;Supabase+%7C+Firebase+%7C+SQLite;Open+to+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=React+Native+and+Flutter+Developer;Shipping+Apps+to+Google+Play;Supabase+and+Firebase+and+SQLite;Open+to+Freelance+Work" alt="Typing SVG" />
 </p>
 
-Software Engineer building production **React Native** and **Flutter** apps — currently shipping features for an app live on Google Play with **5,000+ downloads**. I work across Supabase, Firebase, and SQLite for auth, real-time data, and offline storage, and use AI-assisted tools (Claude, Cursor, Codex, Antigravity) to move faster without cutting corners. Currently expanding into **AI application engineering** and open to **freelance work**.
+<p align="center">
+Software Engineer building production <b>React Native</b> and <b>Flutter</b> apps — currently shipping features for an app live on Google Play with <b>5,000+ downloads</b>. I work across Supabase, Firebase, and SQLite for auth, real-time data, and offline storage, and use AI-assisted tools (Claude, Cursor, Codex, Antigravity) to move faster without cutting corners. Currently expanding into <b>AI application engineering</b> and open to <b>freelance work</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/5%2C000%2B_Downloads-00C9FF?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/3_Live_Projects-141E30?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to_Freelance-00C9FF?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Powered_Workflow-141E30?style=for-the-badge&logo=claude&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="https://awaischandioport-kappa.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -18,25 +27,32 @@ Software Engineer building production **React Native** and **Flutter** apps — 
   <a href="https://www.linkedin.com/in/muhammad-awais45" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="36" /></a>&nbsp;
   <a href="mailto:awaischandio827@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36" /></a>&nbsp;
   <a href="https://github.com/Awais-Chandio" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="36" /></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Awais-Chandio&color=00F7FF&style=flat-square&label=views" />
+  <img src="https://komarev.com/ghpvc/?username=Awais-Chandio&color=00C9FF&style=flat-square&label=views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-00C9FF?style=for-the-badge&logoColor=white" />
+</p>
 
-**📱 [Safco eCredit](https://play.google.com/store/apps/details?id=com.vergesystems.safco_e_banking)**
+**📱 Safco eCredit**
 Loan-servicing app for Safco Support Foundation clients — approved amounts, repayment schedules, and loan history, offline-capable via SQLite. **Live on Google Play with 5,000+ downloads.**
+<p><a href="https://play.google.com/store/apps/details?id=com.vergesystems.safco_e_banking"><img src="https://img.shields.io/badge/View_on_Google_Play-00C9FF?style=flat-square&logo=googleplay&logoColor=white" /></a></p>
 
-**🏥 [QueueLess](https://github.com/Awais-Chandio/QueueLess)**
+**🏥 QueueLess**
 Real-time queue and appointment app for clinics that replaces physical waiting rooms with live slot booking. **Three-role architecture (Client/Staff/Admin), secured with Supabase Row-Level Security.**
+<p><a href="https://github.com/Awais-Chandio/QueueLess"><img src="https://img.shields.io/badge/View_on_GitHub-141E30?style=flat-square&logo=github&logoColor=white" /></a></p>
 
-**🍔 [FoodApp](https://github.com/Awais-Chandio/FoodApp)**
+**🍔 FoodApp**
 Food ordering app with a two-role architecture (Admin/Customer) and offline-capable order & menu management via SQLite.
+<p><a href="https://github.com/Awais-Chandio/FoodApp"><img src="https://img.shields.io/badge/View_on_GitHub-141E30?style=flat-square&logo=github&logoColor=white" /></a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/TECH_STACK-141E30?style=for-the-badge&logoColor=white" />
+</p>
 
 <div align="center">
 
@@ -77,7 +93,9 @@ Food ordering app with a two-role architecture (Admin/Customer) and offline-capa
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
-## 📊 GitHub Activity
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB_ACTIVITY-00C9FF?style=for-the-badge&logoColor=white" />
+</p>
 
 <p align="center">
   <img alt="GitHub contribution graph" src="https://ghchart.rshah.org/00C9FF/Awais-Chandio" />
