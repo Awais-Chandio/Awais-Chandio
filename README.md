@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="600" src="assets/hero-terminal.svg" alt="Terminal intro animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C9FF&center=true&vCenter=true&width=640&lines=whoami;Muhammad+Awais;React+Native+and+Flutter+Developer;cat+stats.log;5%2C000%2B+Downloads+on+Google+Play;3+Shipped+Projects;echo+%24AVAILABILITY;Open+to+Freelance+Work" alt="Terminal typing animation" />
 </p>
 
 <p align="center">
