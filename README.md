@@ -103,12 +103,13 @@ Food ordering app with a two-role architecture (Admin / Customer) and offline-ca
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_STATS-00C9FF?style=for-the-badge&logoColor=white" />
+  <i>Open to freelance projects and collaboration — React Native, Flutter, and AI-powered app integrations.</i>
 </p>
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Awais-Chandio&show_icons=true&hide_border=true&count_private=true&bg_color=141E30&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Chandio&layout=compact&hide_border=true&bg_color=141E30&title_color=00C9FF&text_color=ffffff" />
+  <a href="mailto:awaischandio827@gmail.com">
+    <img src="https://img.shields.io/badge/Get_in_Touch-00C9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00C9FF&height=90&section=footer" />
