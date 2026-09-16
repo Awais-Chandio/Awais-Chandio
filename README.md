@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-Software Engineer building production <b>React Native</b> and <b>Flutter</b> apps — currently shipping features for an app live on Google Play with <b>5,000+ downloads</b>. I work across Supabase, Firebase, and SQLite for auth, real-time data, and offline storage, and use AI-assisted tools to move faster without cutting corners. Currently expanding into <b>AI application engineering</b> and open to <b>freelance work</b>.
+<b>Software Engineer shipping production React Native and Flutter apps — live on Google Play with 5,000+ downloads.</b>
+<br>
+Working across Supabase, Firebase, and SQLite for auth, real-time data, and offline storage. Currently expanding into AI application engineering and open to freelance work.
 </p>
 
 <p align="center">
@@ -42,14 +44,14 @@ Loan-servicing app for Safco Support Foundation clients — approved amounts, re
 <a href="https://play.google.com/store/apps/details?id=com.vergesystems.safco_e_banking"><img src="https://img.shields.io/badge/View_on_Google_Play-00C9FF?style=flat-square&logo=googleplay&logoColor=white" /></a>
 
 ### QueueLess
-Real-time queue and appointment app for clinics that replaces physical waiting rooms with live slot booking. Three-role architecture (Client / Staff / Admin) secured with Supabase Row-Level Security and custom JWT claims.
+Real-time queue and appointment app for clinics that replaces physical waiting rooms with live slot booking. **Three-role architecture (Client / Staff / Admin), secured with Supabase Row-Level Security and custom JWT claims.**
 
 `React Native CLI` `Supabase` `Row-Level Security`
 
 <a href="https://github.com/Awais-Chandio/QueueLess"><img src="https://img.shields.io/badge/View_on_GitHub-141E30?style=flat-square&logo=github&logoColor=white" /></a>
 
 ### FoodApp
-Food ordering app with a two-role architecture (Admin / Customer) and offline-capable order and menu management via SQLite.
+Food ordering app with a two-role architecture (Admin / Customer) and offline-capable order and menu management via SQLite. **Separate Admin panel for product, order, and user control.**
 
 `React Native CLI` `SQLite` `Role-Based Access`
 
