@@ -103,6 +103,14 @@ Food ordering app with a two-role architecture (Admin / Customer) and offline-ca
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:00C9FF&height=3" />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/COMMIT_HISTORY-00C9FF?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="GitHub contribution history" src="https://ghchart.rshah.org/00C9FF/Awais-Chandio" />
+</p>
+
+<p align="center">
   <i>Open to freelance projects and collaboration — React Native, Flutter, and AI-powered app integrations.</i>
 </p>
 
