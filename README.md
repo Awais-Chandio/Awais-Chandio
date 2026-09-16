@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=React+Native+and+Flutter+Developer;Shipping+Apps+to+Google+Play;Supabase+and+Firebase+and+SQLite;Open+to+Freelance+Work" alt="Typing SVG" />
+  <img width="600" src="assets/hero-terminal.svg" alt="Terminal intro animation" />
 </p>
 
 <p align="center">
