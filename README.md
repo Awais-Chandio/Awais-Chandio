@@ -1,4 +1,4 @@
-a<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F2A43,100:00C9FF&height=240&section=header&text=Muhammad%20Awais&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Apps&descAlignY=58&descSize=17&descColor=9FE8FF" />
